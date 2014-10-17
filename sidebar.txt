@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hot:home|Door43 (hot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hot|d43-hot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hot/archive/master.zip|d43-hot.zip]]
+
+**Recent Changes**
+{{changes>ns = hot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hot|Ethnologue data]]
+
